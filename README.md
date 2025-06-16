@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/asmashaik-786/DSAJOURNEY/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/asmashaik-786/DSAJOURNEY/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Hash Table
 |  |
@@ -39,4 +40,28 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/asmashaik-786/DSAJOURNEY/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+## Binary Search
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/asmashaik-786/DSAJOURNEY/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/asmashaik-786/DSAJOURNEY/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/asmashaik-786/DSAJOURNEY/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Segment Tree
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/asmashaik-786/DSAJOURNEY/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Merge Sort
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/asmashaik-786/DSAJOURNEY/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Ordered Set
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/asmashaik-786/DSAJOURNEY/tree/master/0315-count-of-smaller-numbers-after-self) |
 <!---LeetCode Topics End-->
