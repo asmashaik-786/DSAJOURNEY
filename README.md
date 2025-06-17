@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/asmashaik-786/DSAJOURNEY/tree/master/0022-generate-parentheses) |
+| [1013-fibonacci-number](https://github.com/asmashaik-786/DSAJOURNEY/tree/master/1013-fibonacci-number) |
 ## Backtracking
 |  |
 | ------- |
@@ -19,10 +20,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0060-permutation-sequence](https://github.com/asmashaik-786/DSAJOURNEY/tree/master/0060-permutation-sequence) |
+| [1013-fibonacci-number](https://github.com/asmashaik-786/DSAJOURNEY/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
 | ------- |
 | [0060-permutation-sequence](https://github.com/asmashaik-786/DSAJOURNEY/tree/master/0060-permutation-sequence) |
+| [1013-fibonacci-number](https://github.com/asmashaik-786/DSAJOURNEY/tree/master/1013-fibonacci-number) |
 ## Array
 |  |
 | ------- |
@@ -64,4 +67,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/asmashaik-786/DSAJOURNEY/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/asmashaik-786/DSAJOURNEY/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
