@@ -23,7 +23,6 @@ class Solution {
                 list.add(ar[i]);
                 Recur(ar,a1,list,vis);
                 list.remove(list.size()-1);
-                Recur(ar,a1,list,vis);
                 vis[i]=false;
             }
         }
