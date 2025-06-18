@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/asmashaik-786/DSAJOURNEY/tree/master/0022-generate-parentheses) |
+| [0039-combination-sum](https://github.com/asmashaik-786/DSAJOURNEY/tree/master/0039-combination-sum) |
 | [0077-combinations](https://github.com/asmashaik-786/DSAJOURNEY/tree/master/0077-combinations) |
 | [0216-combination-sum-iii](https://github.com/asmashaik-786/DSAJOURNEY/tree/master/0216-combination-sum-iii) |
 ## Math
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/asmashaik-786/DSAJOURNEY/tree/master/0039-combination-sum) |
 | [0216-combination-sum-iii](https://github.com/asmashaik-786/DSAJOURNEY/tree/master/0216-combination-sum-iii) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/asmashaik-786/DSAJOURNEY/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/asmashaik-786/DSAJOURNEY/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
