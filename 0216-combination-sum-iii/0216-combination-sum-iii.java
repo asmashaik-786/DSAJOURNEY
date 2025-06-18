@@ -1,9 +1,8 @@
 class Solution {
     public List<List<Integer>> combinationSum3(int k, int n) {
-        int[]ar=new int[n];
+        int[]ar=new int[9];
         List<List<Integer>>a1=new ArrayList<>();
-        if(n>9) return a1;
-        for(int i=1;i<=n;i++)
+        for(int i=1;i<=9;i++)
         {
             ar[i-1]=i;
         }
