@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/asmashaik-786/DSAJOURNEY/tree/master/0216-combination-sum-iii) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/asmashaik-786/DSAJOURNEY/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/asmashaik-786/DSAJOURNEY/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/asmashaik-786/DSAJOURNEY/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Hash Table
 |  |
 | ------- |
@@ -83,4 +84,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/asmashaik-786/DSAJOURNEY/tree/master/1013-fibonacci-number) |
+## Sliding Window
+|  |
+| ------- |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/asmashaik-786/DSAJOURNEY/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+## Prefix Sum
+|  |
+| ------- |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/asmashaik-786/DSAJOURNEY/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 <!---LeetCode Topics End-->
