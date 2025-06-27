@@ -9,8 +9,7 @@ class Solution {
         {
             map.put(s.charAt(j),map.getOrDefault(s.charAt(j),0)+1);
             maxfreq=Math.max(maxfreq,map.get(s.charAt(j)));
-            int window=j-i+1;
-            int toreplace=window-maxfreq;
+            int toreplace=(j-i+1)-maxfreq;
             if(toreplace>k)
             {
                 map.put(s.charAt(i),map.getOrDefault(s.charAt(i),0)-1);
