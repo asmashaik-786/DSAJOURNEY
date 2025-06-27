@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/asmashaik-786/DSAJOURNEY/tree/master/0216-combination-sum-iii) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/asmashaik-786/DSAJOURNEY/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0966-binary-subarrays-with-sum](https://github.com/asmashaik-786/DSAJOURNEY/tree/master/0966-binary-subarrays-with-sum) |
+| [1046-max-consecutive-ones-iii](https://github.com/asmashaik-786/DSAJOURNEY/tree/master/1046-max-consecutive-ones-iii) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/asmashaik-786/DSAJOURNEY/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/asmashaik-786/DSAJOURNEY/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Hash Table
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/asmashaik-786/DSAJOURNEY/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [1046-max-consecutive-ones-iii](https://github.com/asmashaik-786/DSAJOURNEY/tree/master/1046-max-consecutive-ones-iii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -96,10 +98,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/asmashaik-786/DSAJOURNEY/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/asmashaik-786/DSAJOURNEY/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0966-binary-subarrays-with-sum](https://github.com/asmashaik-786/DSAJOURNEY/tree/master/0966-binary-subarrays-with-sum) |
+| [1046-max-consecutive-ones-iii](https://github.com/asmashaik-786/DSAJOURNEY/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/asmashaik-786/DSAJOURNEY/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0966-binary-subarrays-with-sum](https://github.com/asmashaik-786/DSAJOURNEY/tree/master/0966-binary-subarrays-with-sum) |
+| [1046-max-consecutive-ones-iii](https://github.com/asmashaik-786/DSAJOURNEY/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/asmashaik-786/DSAJOURNEY/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 <!---LeetCode Topics End-->
