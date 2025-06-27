@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/asmashaik-786/DSAJOURNEY/tree/master/0022-generate-parentheses) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/asmashaik-786/DSAJOURNEY/tree/master/0438-find-all-anagrams-in-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/asmashaik-786/DSAJOURNEY/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/asmashaik-786/DSAJOURNEY/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Sorting
 |  |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/asmashaik-786/DSAJOURNEY/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/asmashaik-786/DSAJOURNEY/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Prefix Sum
 |  |
