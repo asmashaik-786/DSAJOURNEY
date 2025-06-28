@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/asmashaik-786/DSAJOURNEY/tree/master/0022-generate-parentheses) |
+| [0076-minimum-window-substring](https://github.com/asmashaik-786/DSAJOURNEY/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/asmashaik-786/DSAJOURNEY/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/asmashaik-786/DSAJOURNEY/tree/master/0438-find-all-anagrams-in-a-string) |
 ## Dynamic Programming
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/asmashaik-786/DSAJOURNEY/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/asmashaik-786/DSAJOURNEY/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/asmashaik-786/DSAJOURNEY/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0966-binary-subarrays-with-sum](https://github.com/asmashaik-786/DSAJOURNEY/tree/master/0966-binary-subarrays-with-sum) |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/asmashaik-786/DSAJOURNEY/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/asmashaik-786/DSAJOURNEY/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/asmashaik-786/DSAJOURNEY/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0966-binary-subarrays-with-sum](https://github.com/asmashaik-786/DSAJOURNEY/tree/master/0966-binary-subarrays-with-sum) |
